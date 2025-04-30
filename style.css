@@ -217,11 +217,11 @@
         height: auto;
     }
     .hero-section .hero-content .hero-text h1{
-        font-size: 0.9em;
+        font-size: 1.7em;
     }
     .hero-section .hero-content .hero-text p{
         width: auto;
-        font-size: 0.5em;
+        font-size: 1em;
     }
 }
 
